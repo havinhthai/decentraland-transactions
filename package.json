@@ -1,5 +1,5 @@
 {
-  "name": "decentraland-transactions",
+  "name": "@wiicamp/decentraland-transactions",
   "version": "0.0.0-development",
   "main": "dist",
   "scripts": {

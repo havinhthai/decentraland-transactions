@@ -14,7 +14,7 @@ clean:
 		@echo '> Cleaning'
 		@(rm -rf coverage || true)
 		@(rm -rf .nyc_output || true)
-		@(rm *.lcov || true)
+		@(rm -rf *.lcov || true)
 		@(rm -rf dist || true)
 
 build: clean

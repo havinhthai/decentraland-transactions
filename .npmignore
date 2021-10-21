@@ -1,7 +1,17 @@
 src
 tsconfig.json
 tslint.json
+static
+test
+LICENSE
+Makefile
+README.md
+rollup.config.js
+tsconfig.json
+tslint.json
+.github
 .nyc_output
 .git
 .circleci
 .vscode
+.mocharc.yml
